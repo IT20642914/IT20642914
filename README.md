@@ -109,11 +109,20 @@
 ---
 
 ### 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=it20642914&show_icons=true&locale=en&layout=compact" alt="it20642914" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=it20642914&show_icons=true&locale=en" alt="it20642914" /></p>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=it20642914&show_icons=true&locale=en&layout=compact" alt="it20642914" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=it20642914&show_icons=true&locale=en" alt="it20642914" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=it20642914&" alt="it20642914" /></td>
+    </tr>
+  </table>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=it20642914&" alt="it20642914" /></p>
+<br clear="both">
+<img src="https://raw.githubusercontent.com/IT20642914/IT20642914/output/snake.svg" alt="Snake animation" />
+
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/IT20642914/IT20642914/output/snake.svg" alt="Snake animation" />
