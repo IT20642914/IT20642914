@@ -1,7 +1,7 @@
 ![MasterHead](https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif)
 
 <h1 align="center">Hi 👋, I'm Avishka Chanaka</h1>
-<h3 align="center">Energetic and passionate BSC(Hons) Information Technology undergraduate student. I have experience in designing web and mobile applications and am eager and willing to learn and take on additional responsibilities.</h3>
+<h3 align="center">Energetic and passionate BSC(Hons) Information Technology undergraduate student with experience in designing web and mobile applications, eager to learn and take on additional responsibilities.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it20642914&label=Profile%20views&color=0e75b6&style=flat" alt="it20642914" /> </p>
 
@@ -105,6 +105,31 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
   </a>
 </p>
+
+---
+
+### 💼 Work Experience
+
+#### Associate Software Engineer at Tecciance (04/2023 - Present)
+- Integrated Zoom APIs for access tokens, meeting records, and webhook notifications.
+- Utilized AWS services to enhance data management and processing.
+- Developed systems to connect various microservices, improving system efficiency.
+- Automated data analysis processes using Python scripts.
+- Ensured seamless user authentication through integration with Keycloak.
+- Enhanced user interface and experience by creating responsive and interactive UIs.
+
+#### Associate Software Engineer (Outsourced) at Acentura Inc (04/2023 - 09/2023)
+- Integrated Google Maps for enhanced location-based services.
+- Developed comprehensive trip request management features.
+- Ensured real-time notifications and role-based task access for users.
+- Led a team in applying best practices, coding standards, and meeting client requirements.
+- Mentored junior developers, fostering their growth and ensuring project success.
+
+#### Software Engineering Intern at Digiratina Technology Solutions Pvt. Ltd. (09/2022 - 04/2023)
+- Improved performance and scalability of existing APIs.
+- Enhanced application functionality through comprehensive code modifications.
+- Developed mobile-responsive web pages, ensuring an optimal user experience.
+- Collaborated closely with the client’s QA team to resolve issues efficiently.
 
 ---
 
