@@ -1,6 +1,6 @@
 ![MasterHead](https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif)
 <h1 align="center">Hi 👋, I'm Avishka Chanaka</h1>
-<h3 align="center">Associate Software Engineer with experience over 2+ years.  eager to learn and take on additional responsibilities. </h3>
+<h3 align="center"> Software Engineer with experience over 2+ years.  eager to learn and take on additional responsibilities. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it20642914&label=Profile%20views&color=0e75b6&style=flat" alt="it20642914" /> </p>
 
