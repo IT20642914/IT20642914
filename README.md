@@ -1,11 +1,9 @@
 ![MasterHead](https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif)
 
 <h1 align="center">Hi 👋, I'm Avishka Chanaka</h1>
-<h3 align="center">
-  Full Stack Software Engineer with 3+ years of experience specializing in React, .NET Core, Node.js, and Azure. 
-  Passionate about building scalable enterprise solutions, integrating IFS and Microsoft ecosystems, 
-  and driving innovation across multi-cloud environments (Azure, AWS & Google Cloud).
-</h3>
+<h3 align="center">🚀 Full Stack Software Engineer (React | .NET | Node.js | Azure | AWS | GCP)</h3>
+<h4 align="center">Passionate about building scalable enterprise solutions, integrating IFS & Microsoft ecosystems, and driving innovation across cloud platforms.</h4>
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=it20642914&label=Profile%20views&color=0e75b6&style=flat" alt="it20642914" /> 
