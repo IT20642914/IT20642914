@@ -47,7 +47,7 @@
 
 ## 🧰 Languages • Frameworks • Tools • Cloud
 
-<table align="center">
+<table align="left">
   <tr>
     <td align="center"><b>Languages</b></td>
     <td align="center">
