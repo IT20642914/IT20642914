@@ -1,7 +1,13 @@
+
+<!-- Snake contribution animation (kept) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IT20642914/IT20642914/output/snake.svg" alt="Snake animation"/>
+</p>
+
 <!-- Typing headline -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Avishka+Chanaka; Full+Stack+Software+Engineer;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Avishka+Chanaka;Full+Stack+Software+Engineer;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -182,7 +188,3 @@ Strong background in <b>microservices architecture</b>, <b>Microsoft Graph API</
 
 ---
 
-<!-- Snake contribution animation (kept) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/IT20642914/IT20642914/output/snake.svg" alt="Snake animation"/>
-</p>
