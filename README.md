@@ -47,7 +47,7 @@
 
 ## 🧰 Languages • Frameworks • Tools • Cloud
 
-<div align="left">
+<div align="center">
 
 <table width="100%">
   <tr>
