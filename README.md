@@ -47,7 +47,9 @@
 
 ## 🧰 Languages • Frameworks • Tools • Cloud
 
-<table align="left" width="100%">
+<div align="center">
+
+<table width="100%">
   <tr>
     <td align="center"><b>Languages</b></td>
     <td align="center">
@@ -94,6 +96,10 @@
   </tr>
 </table>
 
+</div>
+
+<!-- force the next section to start BELOW the table -->
+<br/><br/><br clear="both"/>
 
 ---
 
