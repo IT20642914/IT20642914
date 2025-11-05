@@ -46,32 +46,51 @@
 ---
 
 ## 🧰 Languages • Frameworks • Tools • Cloud
+
+<!-- LANGUAGES -->
+<h4 align="center">Languages</h4>
 <p align="center">
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge"/>
-  <!-- Frontend -->
+</p>
+
+<!-- FRONTEND -->
+<h4 align="center">Frontend</h4>
+<p align="center">
   <img src="https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge"/>
-  <!-- Backend -->
+</p>
+
+<!-- BACKEND -->
+<h4 align="center">Backend</h4>
+<p align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge"/>
-  <!-- Cloud/DevOps -->
+</p>
+
+<!-- CLOUD / DEVOPS -->
+<h4 align="center">Cloud & DevOps</h4>
+<p align="center">
   <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge"/>
-  <!-- DB -->
+</p>
+
+<!-- DATABASES -->
+<h4 align="center">Databases</h4>
+<p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Cosmos%20DB-2E77BC?logo=microsoftazure&logoColor=white&style=for-the-badge"/>
 </p>
+
 
 ---
 
