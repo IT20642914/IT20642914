@@ -8,15 +8,10 @@
   </a>
 </h1>
 
-
-
 <h3 align="center">🚀 Full Stack Software Engineer (React | .NET | Node.js | Azure | AWS | GCP)</h3>
 <h4 align="center">Building scalable enterprise solutions, integrating IFS & Microsoft ecosystems, and shipping cloud-first products.</h4>
 
 <!-- Master head (kept) -->
-<p align="center">
-  <img src="https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif" alt="header"/>
-</p>
 <p align="center">
   <img src="./codeAnimationGif.gif" alt="coding"  />
 </p>
