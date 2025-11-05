@@ -8,10 +8,7 @@
   </a>
 </h1>
 
-<!-- Your own coding GIF (place ./codeAnimationGif.gif in repo root) -->
-<p align="center">
-  <img src="./codeAnimationGif.gif" alt="coding" height="220"/>
-</p>
+
 
 <h3 align="center">🚀 Full Stack Software Engineer (React | .NET | Node.js | Azure | AWS | GCP)</h3>
 <h4 align="center">Building scalable enterprise solutions, integrating IFS & Microsoft ecosystems, and shipping cloud-first products.</h4>
@@ -19,6 +16,9 @@
 <!-- Master head (kept) -->
 <p align="center">
   <img src="https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif" alt="header"/>
+</p>
+<p align="center">
+  <img src="./codeAnimationGif.gif" alt="coding"  />
 </p>
 
 <!-- Profile views -->
@@ -92,12 +92,24 @@
 
 ---
 
-## 💼 Experience (Highlights)
-- **Addovation (2025–Present):** Office Add-ins suite around **IFS Document Management**; **Microsoft Graph**, **Azure AD SSO**, **IFS APIs**, **Cosmos DB**, multi-tenant Azure.
-- **Sonic Labs (2024–2025):** Multi-tenant portals with **.NET Core**, **React**, **Azure Functions**, **OAuth 2.0**.
-- **Tecciance (2023–2024):** **AWS Lambda**, **Zoom APIs**, **Keycloak**, microservices.
-- **Acentura (2023):** Trip management, Google Maps, RBAC.
-- **Digiratina (2022–2023):** REST APIs, **React** + **Spring Boot**.
+## 💼 Work Experience
+**🧩 Software Engineer — Addovation (07/2025 – Present)**  
+• Built an **Office Add-in Suite** (Word/Excel/PowerPoint/Outlook) wrapping **IFS Document Management**  
+• Integrated **Microsoft Graph**, **Azure AD SSO**, **IFS APIs** for secure access & version control  
+• Contributed to **multi-tenant Azure** deployments, **Cosmos DB**, and secure file streaming
+
+**💻 Full Stack Software Engineer — Sonic Labs (11/2024 – 06/2025)**  
+• Delivered scalable **admin portals** with **.NET Core**, **React**, **Azure Functions**  
+• Implemented **OAuth 2.0** and **Microsoft Graph** features
+
+**⚙️ Associate Software Engineer — Tecciance (04/2023 – 09/2024)**  
+• Microservices on **AWS Lambda**, **Zoom APIs**, **Keycloak**; responsive UIs & integrations
+
+**🌍 Associate Software Engineer (Outsourced) — Acentura (04/2023 – 09/2023)**  
+• Trip management with **Google Maps**, RBAC, and agile delivery
+
+**🚀 Software Engineering Intern — Digiratina (09/2022 – 04/2023)**  
+• Optimized REST APIs; mobile-responsive solutions using **React** & **Spring Boot**
 
 ---
 
