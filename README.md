@@ -6,12 +6,12 @@
 </h1>
 
 <h3 align="center">🚀 Full Stack Software Engineer (React | .NET | Node.js | Azure | AWS | GCP)</h3>
-<h4 align="center">Building scalable enterprise solutions, integrating IFS & Microsoft ecosystems, and shipping cloud-first products.</h4>
 <h3 align="center">About Me</h3>
 <p align="center">
 Full-stack Software Engineer with over <b>3 years</b> of hands-on experience designing and building scalable web and mobile applications using <b>React, Node.js, TypeScript, .NET Core,</b> and <b>Spring Boot</b>. Experienced in integrating complex systems, third-party APIs, and enterprise workflows across <b>Azure, AWS, and Google Cloud</b> environments.<br/><br/>
 Strong background in <b>microservices architecture</b>, <b>Microsoft Graph API</b>, <b>OAuth 2.0</b>, and database management (<b>MySQL, MongoDB, DynamoDB, Cosmos DB</b>). Adept at crafting secure, high-performance solutions with a focus on <b>clean architecture</b>, <b>UI/UX excellence</b>, and <b>innovation-driven development</b>. Passionate about solving complex problems and collaborating across teams to deliver impactful, production-ready solutions.
 </p>
+
 
 <!-- Master head (kept) -->
 <p align="center">
