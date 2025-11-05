@@ -98,7 +98,8 @@
 ---
 
 ## 🌍 Live Projects (Sample Websites)
-<p align="center">
+<br/>
+<p align="left">
   <a href="https://capex-xi.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Capex%20App-Live-34D399?style=for-the-badge"/></a>
   <a href="https://avishka-chanaka.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live-3B82F6?style=for-the-badge"/></a>
   <a href="https://react-course-pr2.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/React%20Course%20PR2-Live-8B5CF6?style=for-the-badge"/></a>
